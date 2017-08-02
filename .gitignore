@@ -56,3 +56,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Jupyter Junk
+.ipynb_checkpoints
+
+# PyCharm Junk
+.idea
+
+# Development Resources
+resources
